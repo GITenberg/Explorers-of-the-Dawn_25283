@@ -1,0 +1,39 @@
+_repo: Explorers-of-the-Dawn_25283
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Morley, Christopher
+    alias: Morley, Christopher Darlington
+    birthdate: 1890
+    deathdate: 1957
+    gutenberg_agent_id: '109'
+    url: http://www.gutenberg.org/2009/agents/109
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Morley
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De la Roche, Mazo
+    aliases:
+    - La Roche, Mazo de
+    - Roche, Mazo de la
+    birthdate: 1879
+    deathdate: 1961
+    gutenberg_agent_id: '31212'
+    url: http://www.gutenberg.org/2009/agents/31212
+description: ''
+gutenberg_issued: '2008-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25283'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Governesses -- Fiction'
+- !lcsh 'Brothers -- Fiction'
+title: Explorers of the Dawn
+url: http://www.gutenberg.org/ebooks/25283
